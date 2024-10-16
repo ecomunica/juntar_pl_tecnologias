@@ -263,8 +263,6 @@ Caso encontre problemas ao executar o script, considere as seguintes soluções:
 
 ---
 
-### 8. **Considerações Finais**
-
 ---
 
 
